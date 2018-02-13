@@ -18,3 +18,16 @@ Assignments of cloud_infrastrcuture course
  
  $ python3 mm.py
     
+# Schedulng folder
+
+This folder contains implementation of 
+
+a) Min-Min b) Max-Min c) Sufferage scheduling algorithm 
+
+all the 3 algo's are implemented in mk.py file. it uses data.csv file's data 
+
+# How to tun
+
+$python3 mk.py
+
+It will show you on which machines all the tasks are asigned and why they are assigned with details explanation. A sample outout is listed in out.txt file 
