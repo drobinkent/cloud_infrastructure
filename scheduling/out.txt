@@ -1,0 +1,228 @@
+Rest of the taks to scheduled
+	 0  , 13  , 79  , 23  , 71  , 60  , 27  , 2  , 
+	 1  , 31  , 13  , 14  , 94  , 60  , 61  , 57  , 
+	 2  , 17  , 1  , 9223372036854775807  , 23  , 36  , 8  , 86  , 
+	 3  , 19  , 28  , 10  , 4  , 58  , 73  , 40  , 
+	 4  , 94  , 75  , 9223372036854775807  , 58  , 9223372036854775807  , 68  , 46  , 
+	 5  , 8  , 24  , 3  , 32  , 4  , 94  , 89  , 
+	 6  , 10  , 57  , 13  , 1  , 92  , 75  , 29  , 
+	 7  , 80  , 17  , 38  , 40  , 66  , 25  , 88  , 
+Task --Minimum length time -- on Machine in MIN-MIN sorted format 
+[[2, 1, 1], [6, 1, 3], [0, 2, 6], [5, 3, 2], [3, 4, 3], [1, 13, 1], [7, 17, 1], [4, 46, 6]]
+Task -- 2  with time length  1  is scheduled on Machine  1
+Rest of the taks to scheduled
+	 0  , 13  , 80  , 23  , 71  , 60  , 27  , 2  , 
+	 1  , 31  , 14  , 14  , 94  , 60  , 61  , 57  , 
+	 3  , 19  , 29  , 10  , 4  , 58  , 73  , 40  , 
+	 4  , 94  , 76  , 9223372036854775807  , 58  , 9223372036854775807  , 68  , 46  , 
+	 5  , 8  , 25  , 3  , 32  , 4  , 94  , 89  , 
+	 6  , 10  , 58  , 13  , 1  , 92  , 75  , 29  , 
+	 7  , 80  , 18  , 38  , 40  , 66  , 25  , 88  , 
+Task --Minimum length time -- on Machine in MIN-MIN sorted format 
+[[6, 1, 3], [0, 2, 6], [5, 3, 2], [3, 4, 3], [1, 14, 1], [7, 18, 1], [4, 46, 6]]
+Task -- 6  with time length  1  is scheduled on Machine  3
+Rest of the taks to scheduled
+	 0  , 13  , 80  , 23  , 72  , 60  , 27  , 2  , 
+	 1  , 31  , 14  , 14  , 95  , 60  , 61  , 57  , 
+	 3  , 19  , 29  , 10  , 5  , 58  , 73  , 40  , 
+	 4  , 94  , 76  , 9223372036854775807  , 59  , 9223372036854775807  , 68  , 46  , 
+	 5  , 8  , 25  , 3  , 33  , 4  , 94  , 89  , 
+	 7  , 80  , 18  , 38  , 41  , 66  , 25  , 88  , 
+Task --Minimum length time -- on Machine in MIN-MIN sorted format 
+[[0, 2, 6], [5, 3, 2], [3, 5, 3], [1, 14, 1], [7, 18, 1], [4, 46, 6]]
+Task -- 0  with time length  2  is scheduled on Machine  6
+Rest of the taks to scheduled
+	 1  , 31  , 14  , 14  , 95  , 60  , 61  , 59  , 
+	 3  , 19  , 29  , 10  , 5  , 58  , 73  , 42  , 
+	 4  , 94  , 76  , 9223372036854775807  , 59  , 9223372036854775807  , 68  , 48  , 
+	 5  , 8  , 25  , 3  , 33  , 4  , 94  , 91  , 
+	 7  , 80  , 18  , 38  , 41  , 66  , 25  , 90  , 
+Task --Minimum length time -- on Machine in MIN-MIN sorted format 
+[[5, 3, 2], [3, 5, 3], [1, 14, 1], [7, 18, 1], [4, 48, 6]]
+Task -- 5  with time length  3  is scheduled on Machine  2
+Rest of the taks to scheduled
+	 1  , 31  , 14  , 17  , 95  , 60  , 61  , 59  , 
+	 3  , 19  , 29  , 13  , 5  , 58  , 73  , 42  , 
+	 4  , 94  , 76  , 9223372036854775810  , 59  , 9223372036854775807  , 68  , 48  , 
+	 7  , 80  , 18  , 41  , 41  , 66  , 25  , 90  , 
+Task --Minimum length time -- on Machine in MIN-MIN sorted format 
+[[3, 5, 3], [1, 14, 1], [7, 18, 1], [4, 48, 6]]
+Task -- 3  with time length  5  is scheduled on Machine  3
+Rest of the taks to scheduled
+	 1  , 31  , 14  , 17  , 100  , 60  , 61  , 59  , 
+	 4  , 94  , 76  , 9223372036854775810  , 64  , 9223372036854775807  , 68  , 48  , 
+	 7  , 80  , 18  , 41  , 46  , 66  , 25  , 90  , 
+Task --Minimum length time -- on Machine in MIN-MIN sorted format 
+[[1, 14, 1], [7, 18, 1], [4, 48, 6]]
+Task -- 1  with time length  14  is scheduled on Machine  1
+Rest of the taks to scheduled
+	 4  , 94  , 90  , 9223372036854775810  , 64  , 9223372036854775807  , 68  , 48  , 
+	 7  , 80  , 32  , 41  , 46  , 66  , 25  , 90  , 
+Task --Minimum length time -- on Machine in MIN-MIN sorted format 
+[[7, 25, 5], [4, 48, 6]]
+Task -- 7  with time length  25  is scheduled on Machine  5
+Rest of the taks to scheduled
+	 4  , 94  , 90  , 9223372036854775810  , 64  , 9223372036854775807  , 93  , 48  , 
+Task --Minimum length time -- on Machine in MIN-MIN sorted format 
+[[4, 48, 6]]
+Task -- 4  with time length  48  is scheduled on Machine  6
+Final Result using Min-Min scheduling in  Machine : Task , Aggregated length] format is follwoing : 
+{1: [[2, 1], [1, 14]], 3: [[6, 1], [3, 5]], 6: [[0, 2], [4, 48]], 2: [[5, 3]], 5: [[7, 25]]}
+
+
+===========================================
+
+
+Rest of the taks to scheduled
+	 0  , 13  , 79  , 23  , 71  , 60  , 27  , 2  , 
+	 1  , 31  , 13  , 14  , 94  , 60  , 61  , 57  , 
+	 2  , 17  , 1  , 9223372036854775807  , 23  , 36  , 8  , 86  , 
+	 3  , 19  , 28  , 10  , 4  , 58  , 73  , 40  , 
+	 4  , 94  , 75  , 9223372036854775807  , 58  , 9223372036854775807  , 68  , 46  , 
+	 5  , 8  , 24  , 3  , 32  , 4  , 94  , 89  , 
+	 6  , 10  , 57  , 13  , 1  , 92  , 75  , 29  , 
+	 7  , 80  , 17  , 38  , 40  , 66  , 25  , 88  , 
+Task --Minimum length time -- on Machine in MAX-MIN sorted format 
+[[4, 46, 6], [7, 17, 1], [1, 13, 1], [3, 4, 3], [5, 3, 2], [0, 2, 6], [2, 1, 1], [6, 1, 3]]
+Task -- 4  with time length  46  is scheduled on Machine  6
+Rest of the taks to scheduled
+	 0  , 13  , 79  , 23  , 71  , 60  , 27  , 48  , 
+	 1  , 31  , 13  , 14  , 94  , 60  , 61  , 103  , 
+	 2  , 17  , 1  , 9223372036854775807  , 23  , 36  , 8  , 132  , 
+	 3  , 19  , 28  , 10  , 4  , 58  , 73  , 86  , 
+	 5  , 8  , 24  , 3  , 32  , 4  , 94  , 135  , 
+	 6  , 10  , 57  , 13  , 1  , 92  , 75  , 75  , 
+	 7  , 80  , 17  , 38  , 40  , 66  , 25  , 134  , 
+Task --Minimum length time -- on Machine in MAX-MIN sorted format 
+[[7, 17, 1], [0, 13, 0], [1, 13, 1], [3, 4, 3], [5, 3, 2], [2, 1, 1], [6, 1, 3]]
+Task -- 7  with time length  17  is scheduled on Machine  1
+Rest of the taks to scheduled
+	 0  , 13  , 96  , 23  , 71  , 60  , 27  , 48  , 
+	 1  , 31  , 30  , 14  , 94  , 60  , 61  , 103  , 
+	 2  , 17  , 18  , 9223372036854775807  , 23  , 36  , 8  , 132  , 
+	 3  , 19  , 45  , 10  , 4  , 58  , 73  , 86  , 
+	 5  , 8  , 41  , 3  , 32  , 4  , 94  , 135  , 
+	 6  , 10  , 74  , 13  , 1  , 92  , 75  , 75  , 
+Task --Minimum length time -- on Machine in MAX-MIN sorted format 
+[[1, 14, 2], [0, 13, 0], [2, 8, 5], [3, 4, 3], [5, 3, 2], [6, 1, 3]]
+Task -- 1  with time length  14  is scheduled on Machine  2
+Rest of the taks to scheduled
+	 0  , 13  , 96  , 37  , 71  , 60  , 27  , 48  , 
+	 2  , 17  , 18  , 9223372036854775821  , 23  , 36  , 8  , 132  , 
+	 3  , 19  , 45  , 24  , 4  , 58  , 73  , 86  , 
+	 5  , 8  , 41  , 17  , 32  , 4  , 94  , 135  , 
+	 6  , 10  , 74  , 27  , 1  , 92  , 75  , 75  , 
+Task --Minimum length time -- on Machine in MAX-MIN sorted format 
+[[0, 13, 0], [2, 8, 5], [3, 4, 3], [5, 4, 4], [6, 1, 3]]
+Task -- 0  with time length  13  is scheduled on Machine  0
+Rest of the taks to scheduled
+	 2  , 30  , 18  , 9223372036854775821  , 23  , 36  , 8  , 132  , 
+	 3  , 32  , 45  , 24  , 4  , 58  , 73  , 86  , 
+	 5  , 21  , 41  , 17  , 32  , 4  , 94  , 135  , 
+	 6  , 23  , 74  , 27  , 1  , 92  , 75  , 75  , 
+Task --Minimum length time -- on Machine in MAX-MIN sorted format 
+[[2, 8, 5], [3, 4, 3], [5, 4, 4], [6, 1, 3]]
+Task -- 2  with time length  8  is scheduled on Machine  5
+Rest of the taks to scheduled
+	 3  , 32  , 45  , 24  , 4  , 58  , 81  , 86  , 
+	 5  , 21  , 41  , 17  , 32  , 4  , 102  , 135  , 
+	 6  , 23  , 74  , 27  , 1  , 92  , 83  , 75  , 
+Task --Minimum length time -- on Machine in MAX-MIN sorted format 
+[[3, 4, 3], [5, 4, 4], [6, 1, 3]]
+Task -- 3  with time length  4  is scheduled on Machine  3
+Rest of the taks to scheduled
+	 5  , 21  , 41  , 17  , 36  , 4  , 102  , 135  , 
+	 6  , 23  , 74  , 27  , 5  , 92  , 83  , 75  , 
+Task --Minimum length time -- on Machine in MAX-MIN sorted format 
+[[6, 5, 3], [5, 4, 4]]
+Task -- 6  with time length  5  is scheduled on Machine  3
+Rest of the taks to scheduled
+	 5  , 21  , 41  , 17  , 41  , 4  , 102  , 135  , 
+Task --Minimum length time -- on Machine in MAX-MIN sorted format 
+[[5, 4, 4]]
+Task -- 5  with time length  4  is scheduled on Machine  4
+Final Result using Max-Min scheduling in  Machine : Task , Aggregated length] format is follwoing : 
+{6: [[4, 46]], 1: [[7, 17]], 2: [[1, 14]], 0: [[0, 13]], 5: [[2, 8]], 3: [[3, 4], [6, 5]], 4: [[5, 4]]}
+
+
+===========================================
+
+
+Rest of the taks to scheduled
+	 0  , 13  , 79  , 23  , 71  , 60  , 27  , 2  , 
+	 1  , 31  , 13  , 14  , 94  , 60  , 61  , 57  , 
+	 2  , 17  , 1  , 9223372036854775807  , 23  , 36  , 8  , 86  , 
+	 3  , 19  , 28  , 10  , 4  , 58  , 73  , 40  , 
+	 4  , 94  , 75  , 9223372036854775807  , 58  , 9223372036854775807  , 68  , 46  , 
+	 5  , 8  , 24  , 3  , 32  , 4  , 94  , 89  , 
+	 6  , 10  , 57  , 13  , 1  , 92  , 75  , 29  , 
+	 7  , 80  , 17  , 38  , 40  , 66  , 25  , 88  , 
+inside get_min_sufferage_sort_data
+Sufferge data calculated in format : task -- suffergae -- first minimum-- second minimum -- index of first minimum -- index of second minimum
+[[4, 12, 46, 58, 7, 6], [0, 11, 2, 13, 7, 3], [6, 9, 1, 10, 4, 3], [7, 8, 17, 25, 2, 6], [2, 7, 1, 8, 2, 6], [3, 6, 4, 10, 4, 2], [1, 1, 13, 14, 2, 3], [5, 1, 3, 4, 3, 5]]
+Task -- 4 sufferage  12  with time length  46  is scheduled on Machine  6
+Rest of the taks to scheduled
+	 0  , 13  , 79  , 23  , 71  , 60  , 27  , 48  , 
+	 1  , 31  , 13  , 14  , 94  , 60  , 61  , 103  , 
+	 2  , 17  , 1  , 9223372036854775807  , 23  , 36  , 8  , 132  , 
+	 3  , 19  , 28  , 10  , 4  , 58  , 73  , 86  , 
+	 5  , 8  , 24  , 3  , 32  , 4  , 94  , 135  , 
+	 6  , 10  , 57  , 13  , 1  , 92  , 75  , 75  , 
+	 7  , 80  , 17  , 38  , 40  , 66  , 25  , 134  , 
+inside get_min_sufferage_sort_data
+Sufferge data calculated in format : task -- suffergae -- first minimum-- second minimum -- index of first minimum -- index of second minimum
+[[0, 10, 13, 23, 1, 3], [6, 9, 1, 10, 4, 3], [7, 8, 17, 25, 2, 6], [2, 7, 1, 8, 2, 6], [3, 6, 4, 10, 4, 2], [1, 1, 13, 14, 2, 3], [5, 1, 3, 4, 3, 5]]
+Task -- 0 sufferage  10  with time length  13  is scheduled on Machine  0
+Rest of the taks to scheduled
+	 1  , 44  , 13  , 14  , 94  , 60  , 61  , 103  , 
+	 2  , 30  , 1  , 9223372036854775807  , 23  , 36  , 8  , 132  , 
+	 3  , 32  , 28  , 10  , 4  , 58  , 73  , 86  , 
+	 5  , 21  , 24  , 3  , 32  , 4  , 94  , 135  , 
+	 6  , 23  , 57  , 13  , 1  , 92  , 75  , 75  , 
+	 7  , 93  , 17  , 38  , 40  , 66  , 25  , 134  , 
+inside get_min_sufferage_sort_data
+Sufferge data calculated in format : task -- suffergae -- first minimum-- second minimum -- index of first minimum -- index of second minimum
+[[6, 12, 1, 13, 4, 2], [7, 8, 17, 25, 2, 6], [2, 7, 1, 8, 2, 6], [3, 6, 4, 10, 4, 0], [1, 1, 13, 14, 2, 3], [5, 1, 3, 4, 3, 5]]
+Task -- 6 sufferage  12  with time length  1  is scheduled on Machine  3
+Rest of the taks to scheduled
+	 1  , 44  , 13  , 14  , 95  , 60  , 61  , 103  , 
+	 2  , 30  , 1  , 9223372036854775807  , 24  , 36  , 8  , 132  , 
+	 3  , 32  , 28  , 10  , 5  , 58  , 73  , 86  , 
+	 5  , 21  , 24  , 3  , 33  , 4  , 94  , 135  , 
+	 7  , 93  , 17  , 38  , 41  , 66  , 25  , 134  , 
+inside get_min_sufferage_sort_data
+Sufferge data calculated in format : task -- suffergae -- first minimum-- second minimum -- index of first minimum -- index of second minimum
+[[7, 8, 17, 25, 2, 6], [2, 7, 1, 8, 2, 6], [3, 5, 5, 10, 4, 0], [1, 1, 13, 14, 2, 3], [5, 1, 3, 4, 3, 5]]
+Task -- 7 sufferage  8  with time length  17  is scheduled on Machine  1
+Rest of the taks to scheduled
+	 1  , 44  , 30  , 14  , 95  , 60  , 61  , 103  , 
+	 2  , 30  , 18  , 9223372036854775807  , 24  , 36  , 8  , 132  , 
+	 3  , 32  , 45  , 10  , 5  , 58  , 73  , 86  , 
+	 5  , 21  , 41  , 3  , 33  , 4  , 94  , 135  , 
+inside get_min_sufferage_sort_data
+Sufferge data calculated in format : task -- suffergae -- first minimum-- second minimum -- index of first minimum -- index of second minimum
+[[1, 16, 14, 30, 3, 0], [2, 10, 8, 18, 6, 4], [3, 5, 5, 10, 4, 2], [5, 1, 3, 4, 3, 5]]
+Task -- 1 sufferage  16  with time length  14  is scheduled on Machine  2
+Rest of the taks to scheduled
+	 2  , 30  , 18  , 9223372036854775821  , 24  , 36  , 8  , 132  , 
+	 3  , 32  , 45  , 24  , 5  , 58  , 73  , 86  , 
+	 5  , 21  , 41  , 17  , 33  , 4  , 94  , 135  , 
+inside get_min_sufferage_sort_data
+Sufferge data calculated in format : task -- suffergae -- first minimum-- second minimum -- index of first minimum -- index of second minimum
+[[3, 19, 5, 24, 4, 2], [5, 13, 4, 17, 5, 2], [2, 10, 8, 18, 6, 4]]
+Task -- 3 sufferage  19  with time length  5  is scheduled on Machine  3
+Rest of the taks to scheduled
+	 2  , 30  , 18  , 9223372036854775821  , 29  , 36  , 8  , 132  , 
+	 5  , 21  , 41  , 17  , 38  , 4  , 94  , 135  , 
+inside get_min_sufferage_sort_data
+Sufferge data calculated in format : task -- suffergae -- first minimum-- second minimum -- index of first minimum -- index of second minimum
+[[5, 13, 4, 17, 5, 2], [2, 10, 8, 18, 6, 4]]
+Task -- 5 sufferage  13  with time length  4  is scheduled on Machine  4
+Rest of the taks to scheduled
+	 2  , 30  , 18  , 9223372036854775821  , 29  , 40  , 8  , 132  , 
+inside get_min_sufferage_sort_data
+Sufferge data calculated in format : task -- suffergae -- first minimum-- second minimum -- index of first minimum -- index of second minimum
+[[2, 10, 8, 18, 6, 4]]
+Task -- 2 sufferage  10  with time length  8  is scheduled on Machine  5
+Final Result using Sufferage scheduling in  Machine : Task , Aggregated length] format is follwoing : 
+{7: [[4, 46]], 1: [[0, 13]], 4: [[6, 1], [3, 5]], 2: [[7, 17]], 3: [[1, 14]], 5: [[5, 4]], 6: [[2, 8]]}
