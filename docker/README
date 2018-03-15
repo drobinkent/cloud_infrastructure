@@ -1,0 +1,14 @@
+This folder has 2 files. 
+
+1) Dockerfile
+2) docker_assignment.sh 
+
+You need to run the second file with sudo permission. This will do following things
+  a) Create docker volume, build the docker image from the Dockerfile and attach the volume with docker container
+  b) Install all dependencies for IoZone through docker
+  c) Buid the IoZONE system
+  d) run a sample Iozone bechmark report and save the report as a .xls file in the volume
+  e) Stop the docker container. 
+  f) Copy the benchmark report from the volume to current directory
+  g) also copy the report directly from the container
+  
