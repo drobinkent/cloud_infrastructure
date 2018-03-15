@@ -1,7 +1,7 @@
 This folder has 2 files. 
 
 1) Dockerfile
-2) docker_assignment.sh 
+2) run.sh 
 
 You need to run the second file with sudo permission. This will do following things
   a) Create docker volume, build the docker image from the Dockerfile and attach the volume with docker container
